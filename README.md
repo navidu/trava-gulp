@@ -1,5 +1,5 @@
 # [Trava (Gulp)](http://trava.navidu.info)
-- Built using gulp
+- Built using gulp & yarn
 
 ## How to run
 - Git clone this repo
