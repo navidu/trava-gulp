@@ -4,7 +4,7 @@
 ## How to run
 - Git clone this repo
 ```shell
-git clone https://github.com/navidu/trava.git
+git clone https://github.com/navidu/trava-gulp.git
 ```
 - install yarn
 ```shell
