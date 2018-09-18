@@ -14,10 +14,7 @@ npm install yarn -g
 ```shell
 yarn install
 ```
-- download fontastic files
-```shell
-gulp fontastic
-```
+
 - build
 ```shell
 gulp build
